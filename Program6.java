@@ -1,3 +1,4 @@
+
 //import stuff here!
 
 //Your code here
@@ -42,10 +43,10 @@ diameter= ((int)((diameter*1000)+0.5))/1000.0;
 /*
 
 enter radius: 
-2
-the radius of the circle= 2.0
-the area of the circle= 12.566
-the circumference of the circle= 12.566
-the diameter of the circle= 4.0
+3.712
+the radius of the circle= 3.712
+the area of the circle= 43.288
+the circumference of the circle= 23.323
+the diameter of the circle= 7.424
 
 */
