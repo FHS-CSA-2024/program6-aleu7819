@@ -19,7 +19,7 @@ final double piValue= 3.14159;
 //calculations
 double diameter= radius*2;
         
-double circumference= 2*(piValue*radius);
+double circumference= (piValue*radius);
 double area= piValue*(radius*radius);
         
 //changing the decimal places
