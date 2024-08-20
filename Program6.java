@@ -19,13 +19,13 @@ final double piValue= 3.14159;
 //calculations
 double diameter= radius*2;
         
-double circumference= (piValue*radius);
+double circumference= 2*(piValue*radius);
 double area= piValue*(radius*radius);
         
 //changing the decimal places
 radius= ((int)((radius*1000)+0.5))/1000.0;
 area= ((int)((area*1000)+0.5))/1000.0;
-circumference= ((int)((area*1000)+0.5))/1000.0;
+circumference= ((int)((circumference*1000)+0.5))/1000.0;
 diameter= ((int)((diameter*1000)+0.5))/1000.0;
         
         System.out.println("the radius of the circle= " + radius);
